@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\EngineerSpock\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\EngineerSpock\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_MasterLinq.-1035587542.00" t="ExcludeRecursive" />
+    <e p="Q:\OneDrive\Shared\Courses\MasterLinq-Course\MasterLinq" t="IncludeFlat">
+      <e p="MasterLinq" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ChessPlayer.cs" t="Include" />
+        <e p="ChessStats" t="Include">
+          <e p="Top100ChessPlayers.csv" t="Include" />
+        </e>
+        <e p="Conversions.cs" t="Include" />
+        <e p="EfDemo.cs" t="Include" />
+        <e p="IHaveId.cs" t="Include" />
+        <e p="JoinGroupAggregate.cs" t="Include" />
+        <e p="LinqExtensions.cs" t="Include" />
+        <e p="MasterLinq.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="ParseCsv.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="RandomStream.cs" t="Include" />
+        <e p="RoleOfIEnumerable.cs" t="Include" />
+        <e p="Select.cs" t="Include" />
+        <e p="SelectMany.cs" t="Include" />
+        <e p="Tournament.cs" t="Include" />
+        <e p="Where.cs" t="Include" />
+        <e p="WhyLinq.cs" t="Include" />
+        <e p="XmlLinq.cs" t="Include" />
+      </e>
+      <e p="MasterLinq.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

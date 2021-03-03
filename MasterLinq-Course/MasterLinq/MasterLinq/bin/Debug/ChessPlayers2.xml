@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Players>
+  <Player Id="1" Rating="2842" BirthYear="1990" Country="NOR" FirstName="Magnus" LastName="Carlsen" />
+  <Player Id="2" Rating="2822" BirthYear="1992" Country="USA" FirstName="Fabiano" LastName="Caruana" />
+  <Player Id="3" Rating="2801" BirthYear="1985" Country="AZE" FirstName="Shakhriyar" LastName="Mamedyarov" />
+  <Player Id="4" Rating="2797" BirthYear="1992" Country="CHN" FirstName="Liren" LastName="Ding" />
+  <Player Id="5" Rating="2780" BirthYear="1994" Country="NED" FirstName="Anish" LastName="Giri" />
+  <Player Id="6" Rating="2780" BirthYear="1993" Country="USA" FirstName="Wesley" LastName="So" />
+  <Player Id="7" Rating="2779" BirthYear="1975" Country="RUS" FirstName="Vladimir" LastName="Kramnik" />
+  <Player Id="8" Rating="2779" BirthYear="1990" Country="FRA" FirstName="Maxime" LastName="Vachier-Lagrave" />
+  <Player Id="9" Rating="2777" BirthYear="1987" Country="USA" FirstName="Hikaru" LastName="Nakamura" />
+  <Player Id="10" Rating="2773" BirthYear="1990" Country="RUS" FirstName="Sergey" LastName="Karjakin" />
+  <Player Id="11" Rating="2768" BirthYear="1990" Country="RUS" FirstName="Ian" LastName="Nepomniachtchi" />
+  <Player Id="12" Rating="2768" BirthYear="1969" Country="IND" FirstName="Viswanathan" LastName="Anand" />
+  <Player Id="13" Rating="2767" BirthYear="1982" Country="ARM" FirstName="Levon" LastName="Aronian" />
+  <Player Id="14" Rating="2766" BirthYear="1983" Country="RUS" FirstName="Alexander" LastName="Grischuk" />
+  <Player Id="15" Rating="2760" BirthYear="1994" Country="CHN" FirstName="Yangyi" LastName="Yu" />
+  <Player Id="16" Rating="2753" BirthYear="1976" Country="RUS" FirstName="Peter" LastName="Svidler" />
+  <Player Id="17" Rating="2751" BirthYear="1987" Country="AZE" FirstName="Teimour" LastName="Radjabov" />
+  <Player Id="18" Rating="2748" BirthYear="1983" Country="RUS" FirstName="Dmitry" LastName="Jakovenko" />
+  <Player Id="19" Rating="2747" BirthYear="1975" Country="FID" FirstName="Veselin" LastName="Topalov" />
+  <Player Id="20" Rating="2741" BirthYear="1985" Country="CZE" FirstName="David" LastName="Navara" />
+  <Player Id="21" Rating="2740" BirthYear="1998" Country="POL" FirstName="Jan-Krzysztof" LastName="Duda" />
+  <Player Id="22" Rating="2739" BirthYear="1986" Country="IND" FirstName="P." LastName="Harikrishna" />
+  <Player Id="23" Rating="2735" BirthYear="1999" Country="CHN" FirstName="Yi" LastName="Wei" />
+  <Player Id="24" Rating="2730" BirthYear="1987" Country="RUS" FirstName="Nikita" LastName="Vitiugov" />
+  <Player Id="25" Rating="2727" BirthYear="1991" Country="VIE" FirstName="Quang Liem" LastName="Le" />
+  <Player Id="26" Rating="2727" BirthYear="1987" Country="POL" FirstName="Radoslaw" LastName="Wojtaszek" />
+  <Player Id="27" Rating="2727" BirthYear="1991" Country="USA" FirstName="Samuel" LastName="Shankland" />
+  <Player Id="28" Rating="2719" BirthYear="1996" Country="HUN" FirstName="Richard" LastName="Rapport" />
+  <Player Id="29" Rating="2718" BirthYear="1986" Country="GEO" FirstName="Ivan" LastName="Cheparinov" />
+  <Player Id="30" Rating="2715" BirthYear="1994" Country="IND" FirstName="Santosh Gujrathi" LastName="Vidit" />
+  <Player Id="31" Rating="2714" BirthYear="1989" Country="CHN" FirstName="Chao b" LastName="Li" />
+  <Player Id="32" Rating="2712" BirthYear="1985" Country="CHN" FirstName="Xiangzhi" LastName="Bu" />
+  <Player Id="33" Rating="2711" BirthYear="1985" Country="AZE" FirstName="Arkadij" LastName="Naiditsch" />
+  <Player Id="34" Rating="2711" BirthYear="1986" Country="UKR" FirstName="Yuriy" LastName="Kryvoruchko" />
+  <Player Id="35" Rating="2711" BirthYear="1989" Country="CHN" FirstName="Hao" LastName="Wang" />
+  <Player Id="36" Rating="2710" BirthYear="1990" Country="RUS" FirstName="Dmitry" LastName="Andreikin" />
+  <Player Id="37" Rating="2710" BirthYear="1969" Country="UKR" FirstName="Vassily" LastName="Ivanchuk" />
+  <Player Id="38" Rating="2708" BirthYear="1988" Country="AZE" FirstName="Rauf" LastName="Mamedov" />
+  <Player Id="39" Rating="2707" BirthYear="1995" Country="RUS" FirstName="Vladimir" LastName="Fedoseev" />
+  <Player Id="40" Rating="2707" BirthYear="1982" Country="ESP" FirstName="Francisco" LastName="Vallejo Pons" />
+  <Player Id="41" Rating="2706" BirthYear="1971" Country="ENG" FirstName="Michael" LastName="Adams" />
+  <Player Id="42" Rating="2706" BirthYear="1983" Country="UKR" FirstName="Pavel" LastName="Eljanov" />
+  <Player Id="43" Rating="2703" BirthYear="1968" Country="ISR" FirstName="Boris" LastName="Gelfand" />
+  <Player Id="44" Rating="2702" BirthYear="1976" Country="HUN" FirstName="Zoltan" LastName="Almasi" />
+  <Player Id="45" Rating="2702" BirthYear="1998" Country="RUS" FirstName="Vladislav" LastName="Artemiev" />
+  <Player Id="46" Rating="2702" BirthYear="1987" Country="RUS" FirstName="Evgeny" LastName="Tomashevsky" />
+  <Player Id="47" Rating="2699" BirthYear="1983" Country="FRA" FirstName="Etienne" LastName="Bacrot" />
+  <Player Id="48" Rating="2693" BirthYear="1974" Country="ENG" FirstName="Matthew D" LastName="Sadler" />
+  <Player Id="49" Rating="2692" BirthYear="1991" Country="ISR" FirstName="Tamir" LastName="Nabaty" />
+  <Player Id="50" Rating="2691" BirthYear="1996" Country="RUS" FirstName="Daniil" LastName="Dubov" />
+  <Player Id="51" Rating="2691" BirthYear="1979" Country="HUN" FirstName="Peter" LastName="Leko" />
+  <Player Id="52" Rating="2690" BirthYear="1990" Country="CRO" FirstName="Ivan" LastName="Saric" />
+  <Player Id="53" Rating="2690" BirthYear="1985" Country="RUS" FirstName="Ernesto" LastName="Inarkiev" />
+  <Player Id="54" Rating="2687" BirthYear="1990" Country="ENG" FirstName="David W L" LastName="Howell" />
+  <Player Id="55" Rating="2686" BirthYear="1988" Country="AUT" FirstName="Markus" LastName="Ragger" />
+  <Player Id="56" Rating="2686" BirthYear="1983" Country="UKR" FirstName="Ruslan" LastName="Ponomariov" />
+  <Player Id="57" Rating="2684" BirthYear="1988" Country="EGY" FirstName="Bassem" LastName="Amin" />
+  <Player Id="58" Rating="2683" BirthYear="1991" Country="RUS" FirstName="Maxim" LastName="Matlakov" />
+  <Player Id="59" Rating="2680" BirthYear="1983" Country="ARM" FirstName="Gabriel" LastName="Sargissian" />
+  <Player Id="60" Rating="2678" BirthYear="1985" Country="HUN" FirstName="Ferenc" LastName="Berkes" />
+  <Player Id="61" Rating="2678" BirthYear="1989" Country="ISR" FirstName="Maxim" LastName="Rodshtein" />
+  <Player Id="62" Rating="2677" BirthYear="1980" Country="RUS" FirstName="Vladimir" LastName="Malakhov" />
+  <Player Id="63" Rating="2677" BirthYear="1993" Country="RUS" FirstName="Sanan" LastName="Sjugirov" />
+  <Player Id="64" Rating="2677" BirthYear="1987" Country="CHN" FirstName="Yue" LastName="Wang" />
+  <Player Id="65" Rating="2676" BirthYear="1992" Country="AZE" FirstName="Eltaj" LastName="Safarli" />
+  <Player Id="66" Rating="2675" BirthYear="1974" Country="USA" FirstName="Gata" LastName="Kamsky" />
+  <Player Id="67" Rating="2673" BirthYear="1983" Country="CHN" FirstName="Hua" LastName="Ni" />
+  <Player Id="68" Rating="2671" BirthYear="1981" Country="IND" FirstName="Krishnan" LastName="Sasikiran" />
+  <Player Id="69" Rating="2671" BirthYear="1992" Country="IND" FirstName="B." LastName="Adhiban" />
+  <Player Id="70" Rating="2670" BirthYear="1987" Country="RUS" FirstName="Anton" LastName="Demchenko" />
+  <Player Id="71" Rating="2670" BirthYear="1994" Country="USA" FirstName="Ray" LastName="Robson" />
+  <Player Id="72" Rating="2669" BirthYear="1994" Country="POL" FirstName="Dariusz" LastName="Swiercz" />
+  <Player Id="73" Rating="2669" BirthYear="1984" Country="ENG" FirstName="Luke J" LastName="McShane" />
+  <Player Id="74" Rating="2667" BirthYear="1994" Country="BLR" FirstName="Vladislav" LastName="Kovalev" />
+  <Player Id="75" Rating="2666" BirthYear="1993" Country="IND" FirstName="S.P." LastName="Sethuraman" />
+  <Player Id="76" Rating="2666" BirthYear="1987" Country="ENG" FirstName="Gawain C B" LastName="Jones" />
+  <Player Id="77" Rating="2665" BirthYear="1986" Country="AZE" FirstName="Gadir" LastName="Guseinov" />
+  <Player Id="78" Rating="2664" BirthYear="1995" Country="PER" FirstName="Jorge" LastName="Cori" />
+  <Player Id="79" Rating="2664" BirthYear="1985" Country="UKR" FirstName="Anton" LastName="Korobov" />
+  <Player Id="80" Rating="2663" BirthYear="1977" Country="RUS" FirstName="Evgeniy" LastName="Najer" />
+  <Player Id="81" Rating="2662" BirthYear="1990" Country="NOR" FirstName="Jon Ludvig" LastName="Hammer" />
+  <Player Id="82" Rating="2662" BirthYear="1988" Country="CZE" FirstName="Viktor" LastName="Laznicka" />
+  <Player Id="83" Rating="2662" BirthYear="1979" Country="UZB" FirstName="Rustam" LastName="Kasimdzhanov" />
+  <Player Id="84" Rating="2661" BirthYear="1979" Country="RUS" FirstName="Alexander" LastName="Motylev" />
+  <Player Id="85" Rating="2660" BirthYear="1989" Country="ARM" FirstName="Hrant" LastName="Melkumyan" />
+  <Player Id="86" Rating="2659" BirthYear="1965" Country="ENG" FirstName="Nigel D" LastName="Short" />
+  <Player Id="87" Rating="2658" BirthYear="1993" Country="SWE" FirstName="Nils" LastName="Grandelius" />
+  <Player Id="88" Rating="2658" BirthYear="1994" Country="CHN" FirstName="Yifan" LastName="Hou" />
+  <Player Id="89" Rating="2658" BirthYear="1994" Country="NED" FirstName="Robin" LastName="Van Kampen" />
+  <Player Id="90" Rating="2657" BirthYear="1976" Country="GER" FirstName="Liviu-Dieter" LastName="Nisipeanu" />
+  <Player Id="91" Rating="2656" BirthYear="1988" Country="SLO" FirstName="Luka" LastName="Lenic" />
+  <Player Id="92" Rating="2656" BirthYear="1977" Country="RUS" FirstName="Alexander" LastName="Morozevich" />
+  <Player Id="93" Rating="2655" BirthYear="1971" Country="ARM" FirstName="Vladimir" LastName="Akopian" />
+  <Player Id="94" Rating="2654" BirthYear="1990" Country="UKR" FirstName="Martyn" LastName="Kravtsiv" />
+  <Player Id="95" Rating="2653" BirthYear="1982" Country="CUB" FirstName="Lazaro" LastName="Bruzon Batista" />
+  <Player Id="96" Rating="2652" BirthYear="1995" Country="ESP" FirstName="David" LastName="Anton Guijarro" />
+  <Player Id="97" Rating="2652" BirthYear="1986" Country="UKR" FirstName="Alexander" LastName="Areshchenko" />
+  <Player Id="98" Rating="2652" BirthYear="1983" Country="IND" FirstName="Surya Shekhar" LastName="Ganguly" />
+  <Player Id="99" Rating="2652" BirthYear="1974" Country="RUS" FirstName="Sergei" LastName="Rublevsky" />
+  <Player Id="100" Rating="2651" BirthYear="1961" Country="CZE" FirstName="Igors" LastName="Rausis" />
+</Players>
